@@ -31,7 +31,7 @@
 #include "compatibility.h"
 
 /* Version Information */
-#define DRIVER_VERSION "v2.13.0 (2020/04/20)"
+#define DRIVER_VERSION "v2.13.1 (2020/06/14)"
 #define DRIVER_AUTHOR "Realtek nic sw <nic_swsd@realtek.com>"
 #define DRIVER_DESC "Realtek RTL8152/RTL8153 Based USB Ethernet Adapters"
 #define MODULENAME "r8152"
